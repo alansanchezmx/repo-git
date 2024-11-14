@@ -1,3 +1,6 @@
-hola mundo 
-el veloz murcielago comio cardillo y kiwi
-practica de git
+Pasos para crear un repositorio: 
+1.- git nuit
+2.- git status
+3.- git add .
+4.- git commit -m "mensaje"
+5.- git push
